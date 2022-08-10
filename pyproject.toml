@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pypiexamplezt0898"
-version = "0.0.2"
+version = "0.0.1"
 authors = [
   { name="zt", email="330356463@qq.com" },
 ]
@@ -20,3 +20,6 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/zhengtong0898/pypiexample-zt0898"
+
+[tool.setuptools]
+packages = ["pypiexamplezt0898"]

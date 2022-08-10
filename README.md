@@ -16,7 +16,7 @@ touch ~/.pypirc
 
 # 构建和上传
 python3 -m build
-python3 -m twine upload --repository testpypi dist/*
+python3 -m twine upload --repository pypi dist/*
 ```
 
 &nbsp;  

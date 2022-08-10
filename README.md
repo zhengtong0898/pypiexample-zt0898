@@ -21,4 +21,5 @@ python3 -m twine upload --repository testpypi dist/*
 
 &nbsp;  
 **参考**   
-https://packaging.python.org/en/latest/tutorials/packaging-projects/
+https://packaging.python.org/en/latest/tutorials/packaging-projects/  
+https://setuptools.pypa.io/en/latest/userguide/quickstart.html
